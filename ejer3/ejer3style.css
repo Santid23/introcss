@@ -1,6 +1,6 @@
 body {
     background-image: url('img3/ejer3.jpeg');
-    background-repeat: repeat-y;
+    background-attachment: fixed;
 }
 h1 {
     color: aliceblue;

@@ -1,5 +1,4 @@
 body {
     background-image: url(imagen/cssimagen.jpeg);
-    background-repeat: repeat-x;
-    background-repeat: repeat-y;
+    background-repeat: repeat;
 }
